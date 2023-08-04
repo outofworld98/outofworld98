@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=ByungYeonKho&fontSize=70&animation=twinkling](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Clean Coder&fontSize=90))
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Clean Coder&fontSize=90)
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
